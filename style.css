@@ -55,3 +55,17 @@ button:hover {
     text-align: center;
     margin-top: 15px;
 }
+/* Style for the Forgot Password link */
+.forgot-password {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.forgot-password a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.forgot-password a:hover {
+    text-decoration: underline;
+}
