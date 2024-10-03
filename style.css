@@ -76,7 +76,7 @@ a{
 /* Media Queries for Responsiveness */
 @media (max-width: 600px) {
     .login-container {
-        width: 90%; /* Make container wider on smaller screens */
+        width: 100%; /* Make container wider on smaller screens */
         padding: 15px; /* Reduce padding for smaller screens */
     }
 
